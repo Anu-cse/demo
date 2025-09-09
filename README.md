@@ -13,10 +13,14 @@ My father's name is Palanivel
 His occupation is driver
 My mother's name is Kavitha
 She is a home maker
-I have an elder brother and his name is SHridhar
+I have an elder brother and his name is Shridhar
 He completed BE.CIVIL and at present he is working in MDM company
- 
+
 # ROLE MODEL:
 My role model is A.P.J.ABDUL KALAM
 I have been motivated by his speech 
 His speech will  encourage me to do my works properly
+
+# ABOUT SIR:
+You are a cool person and  
+It is so easily to follow your instruction to do coading sir
