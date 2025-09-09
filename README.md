@@ -12,6 +12,11 @@ I would like to be placed in MNC company
 My father's name is Palanivel
 His occupation is driver
 My mother's name is Kavitha
-She is a home makker
+She is a home maker
 I have an elder brother and his name is SHridhar
-He completed BE.CIVIL and at present he is woeking in MDM company
+He completed BE.CIVIL and at present he is working in MDM company
+ 
+# ROLE MODEL:
+My role model is A.P.J.ABDUL KALAM
+I have been motivated by his speech 
+His speech will  encourage me to do my works properly
